@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 8cd9d1ce71ae9794fb496375fd2056fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 343
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406259ff6ef9d74094e5132e0eb05b4
+      internalID: -452178599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 348
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33a025f029a2c5468eafedf007cb422
+      internalID: -1048207023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 345
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f851626ba9b8d5428d1f97e1c808c15
+      internalID: 2065595600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 221
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa39f91d447165468878ab2136490c2
+      internalID: -528472506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 216
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaaf0902f346f040bd0be92b6226d74
+      internalID: -1806692539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 207
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a38cbad6f1954cbbf4ca211cc14e5
+      internalID: 1539202217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 53
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b9f78c07f249d47a68bd72460d797a
+      internalID: -497413425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 129
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d1cbb7e1c733f4fb0b82f6a7b98999
+      internalID: 1481647695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 37
+        width: 141
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0965a89ef8aefd749aa8d2cc5640a259
+      internalID: -766003369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_0: -452178599
+      top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_1: -1048207023
+      top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_2: 2065595600
+      top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_3: -528472506
+      top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_4: -1806692539
+      top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_5: 1539202217
+      top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_6: -497413425
+      top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_7: 1481647695
+      top-view-bomb-explosion-icon-set-step-by-step-animation-with-boom-effect-black_90220-267-removebg-preview_8: -766003369
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

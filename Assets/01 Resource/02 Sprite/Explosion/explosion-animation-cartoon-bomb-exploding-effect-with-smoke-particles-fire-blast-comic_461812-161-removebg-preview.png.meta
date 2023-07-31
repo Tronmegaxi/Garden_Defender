@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: b839aaf28a827db47ab2da06f5dec72a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 222
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa6d13487ef73438e8d7e7cef1350b
+      internalID: 1430786444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 181
+        width: 141
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f33ab7405b074e8a71f0796a690e6
+      internalID: 319884112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 186
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5750691616cec724a8c678434ad23789
+      internalID: -1940360138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 190
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f3cbf9573416448f9f5cbddada1d3
+      internalID: -1006059712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 45
+        width: 118
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2c4e9dd68d7e459889aacbdc706d8
+      internalID: -400635051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 45
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bad97185295a045ac0be1a1f2415e7
+      internalID: -2077243473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 48
+        width: 107
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1f7eef804160341a3c03610d343e9f
+      internalID: 1296246330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 59
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc4fd1b675bc414b811112f7d046314
+      internalID: -532689411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_0: 1430786444
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_1: 319884112
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_2: -1940360138
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_3: -1006059712
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_4: -400635051
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_5: -2077243473
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_6: 1296246330
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-particles-fire-blast-comic_461812-161-removebg-preview_7: -532689411
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
